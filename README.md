@@ -32,9 +32,9 @@ This project demonstrates a simple **Streamlit web application** for predicting 
    Ensure the pre-trained model file (`lend_logistic_model.pkl`) is in the same directory as the app.
 
 3. **Run the App**  
-   Use the following command to launch the Streamlit app:
+   Use the following command to launch the Streamlit app in a terminal window
    ```bash
-   streamlit run LoanPayback_Streamlit_DEMO.ipynb
+   streamlit run LoanPayback_Streamlit_DEMO.py
    ```
 
 4. **Interact with the App**  
